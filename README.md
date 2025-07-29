@@ -24,7 +24,7 @@ cpan install IO::Prompt
 
 perl shell.pl -g wp-log -p mei1337
   
-Perl shell |
+Perl shell | ./meicookies
 Generate :
 [+] ./shell.pl -g "nama_shell" -p "password"
 Connect Server :

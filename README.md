@@ -1,7 +1,7 @@
 
 ## Shella | Simple Backdoor Manager with Perl
 
-![Screenshoot](1.png)
+![Screenshoot](Screenshot_20250730-063507-picsay.png)
 <br>
 Shella is a simple tool that is written using Perl, which functions to remote a website
 <br>
